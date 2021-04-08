@@ -1,9 +1,11 @@
 # Let's get started
-Here we go ..
+
+before you go, I just implemented a few improvements and bug fixes at the core and I created this repository for beginners only, right?
+So I don't recommend that using this libraries and frameworks for large scale applications at all, here we go!
 
 * What's this:
 
-This is simple cross-platform app based on Ionic framework (Web/iOS/Android/Desktop). 
+This is simple cross-platform app based on React and Ionic framework (WEB/PWA/iOS/Android/Desktop).
 Also note that I've no support for this project, but everything works perfectly!
 You can use this template in all platforms by their default system settings and user interfaces.
 
@@ -22,4 +24,4 @@ you can also generate your App Icon and splash screens using:
 - $ ionic serve
 
 * Next:
-- Don't worry about anything, all prefixes are applied, clone and enjoy!
+Don't worry about anything, all prefixes are applied, clone and enjoy!
